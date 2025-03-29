@@ -35,5 +35,6 @@
     "vite-plugin-wasm": "^3.4.1",
     "vue-tsc": "^2.2.0",
     "wasm-pack": "^0.13.1"
-  }
+  },
+  "version": "0.1.0"
 }
